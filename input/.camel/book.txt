@@ -1,2 +1,0 @@
-2006, The C programming Language, Brian Kernighan
-2005, Thinking in Java, Bruce Eckel

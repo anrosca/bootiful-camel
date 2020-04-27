@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-9" ?>
+<books>
+	<book>
+		<title>Spring in Action, Fifth Edition</title>
+		<publishYear>2018</publishYear>
+		<authors>
+			<author>Craig Walls</author>
+		</authors>
+		<isbn>9781617294945</isbn>
+	</book>
+	<book>
+		<title>Camel in Action, Second Edition</title>
+		<publishYear>2018</publishYear>
+		<authors>
+			<author>Claus Ibsen</author>
+			<author>Jonathan Anstey</author>
+		</authors>
+		<isbn>9781617292934</isbn>
+	</book>
+	<book>
+		<title>Docker in Practice, Second Edition</title>
+		<publishYear>2019</publishYear>
+		<authors>
+			<author>Ian Miell</author>
+			<author>Aidan Hobson Sayers</author>
+		</authors>
+		<isbn>9781617294808</isbn>
+	</book>
+</books>
